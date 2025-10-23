@@ -117,7 +117,7 @@ If you use this codebase in your research or project, please cite:
   title = {Spittoon-Study: Multi-LLM Narrative Generation Experiment},
   author = {Drift Johnson},
   year = {2025},
-  url = {https://github.com/MushroomFleet/Spittoon-Study},
+  url = {https://github.com/MushroomFleet/Remembering-NSL-benchmark},
   version = {1.0.0}
 }
 ```
@@ -131,3 +131,4 @@ If you find this project useful or interesting, consider supporting future exper
 ---
 
 **Note**: This is an experimental research project. Results may vary based on model versions, prompt engineering, and API parameters at the time of generation.
+
