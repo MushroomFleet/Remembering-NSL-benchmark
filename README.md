@@ -132,3 +132,10 @@ If you find this project useful or interesting, consider supporting future exper
 
 **Note**: This is an experimental research project. Results may vary based on model versions, prompt engineering, and API parameters at the time of generation.
 
+---
+
+## Support This Project
+
+If you found this useful, please **star the repo** — it helps others discover it!
+
+[![Star on GitHub](https://img.shields.io/github/stars/MushroomFleet/Remembering-NSL-benchmark?style=social)](https://github.com/MushroomFleet/Remembering-NSL-benchmark)
